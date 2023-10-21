@@ -1,1 +1,0 @@
-if youre on linux just use wine on the windows build lol this goes for any distro
